@@ -1,5 +1,4 @@
 # u-develop-it
-```md
 **Title:**
 Create a database that contains the candidates table
 
@@ -13,9 +12,7 @@ Create a database that contains the candidates table
 * As a user, I want to delete a candidate.
 
 * As a user, I want to create a candidate.
-```
 
-```md
 **Title:**
 Create the parties table
 
@@ -37,9 +34,7 @@ Create the parties table
 * As a user, I want to delete a candidate.
 
 * As a user, I want to create a candidate.
-```
 
-```md
 **Title:**
 Create the voters table
 
@@ -56,8 +51,7 @@ Create the voters table
 
 * As a user, I can delete a voter.
 
-```
-```md
+
 **Title:**
 Create the votes table
 
@@ -68,4 +62,3 @@ Create the votes table
 
 * As a user, I can cast a vote for a candidate.
 
-```
